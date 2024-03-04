@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Counter App Using React.js
+## Increment Counter
+![Add Value](https://github.com/D-4-DIBAKAR/Counter-App/assets/71878062/a264027c-b5ad-458f-84e7-036232b34c46)
+## Decrement Counter
+![Remove Value](https://github.com/D-4-DIBAKAR/Counter-App/assets/71878062/7a9348d6-d82f-4cdd-a093-2eab09377382)
+## Reset Counter
+![Reset Value](https://github.com/D-4-DIBAKAR/Counter-App/assets/71878062/e8257d26-9578-4daf-97d0-ae6a423cacff)
